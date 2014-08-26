@@ -1,0 +1,26 @@
+{
+  "name": "aio-play",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lmorchard/aio-play",
+  "authors": [
+    "mozilla"
+  ],
+  "description": "All-in-one JS component",
+  "main": "dist/aio-play.html",
+  "keywords": [
+    "brick",
+    "webcomponents"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "brick-common": "*",
+    "platform": "Polymer/platform"
+  }
+}
